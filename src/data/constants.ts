@@ -16,8 +16,8 @@ export const PERSONAL_INFO: PersonalInfo = {
   role: 'Junior Frontend Deweloper',
   tagline:
     'I build responsive interfaces and practical web applications using JavaScript, TypeScript, and React.',
-  email: 'vitaliifedunyk.dev@gmail.com',
-  resumeUrl: '/resume_ats.pdf',
+  email: 'realistic.sergio@gmail.com',
+  resumeUrl: '/Serhiy Shambir cv.pdf',
 };
 
 /** Skills displayed in the "Frontend Stack" column of the About section */
