@@ -17,7 +17,7 @@ export const PERSONAL_INFO: PersonalInfo = {
   tagline:
     'I build responsive interfaces and practical web applications using JavaScript, TypeScript, and React.',
   email: 'realistic.sergio@gmail.com',
-  resumeUrl: '/Serhiy Shambir cv.pdf',
+  resumeUrl: '/resume_standart_en.pdf',
 };
 
 /** Skills displayed in the "Frontend Stack" column of the About section */
