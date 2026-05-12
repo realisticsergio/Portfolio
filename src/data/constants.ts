@@ -100,7 +100,7 @@ export const PROJECTS: Project[] = [
       'Framer Motion',
       'Vite',
     ],
-    liveUrl: 'https://vercel.com/realisticsergios-projects',
+    liveUrl: 'https://portfolio-s9xw.vercel.app/',
     githubUrl: 'https://github.com/realisticsergio/Portfolio',
     category: 'personal',
     filters: ['applications'],
